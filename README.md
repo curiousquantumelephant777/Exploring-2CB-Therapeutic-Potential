@@ -1,3 +1,8 @@
 # Exploring-2CB-Therapeutic-Potential
 2,5-dimethoxy-4-bromophenethylamine (2C-B) remains one of the most understudied compounds in the paradigm-shifting psychedelic renaissance. 2C-B has a unique blend of serotonergic and adrenergic effects. It is a potent partial agonist of the 5-HT2A and 5-HT2C receptors, and it has a notable affinity for adrenergic (?1A/?2a) receptors. 2C-B also has significant anti-inflammatory potential. Preclinical studies suggest low doses of 2C-B and its analogues suppress pro-inflammatory cytokine release (e.g., via IL-6, TNF-α?, and IL-1𝛃). 2-CB also shows mild affinity for the H1 histamine receptor. High levels of histamine are associated with inflammatory conditions (e.g., MCAS, migraines, and chronic urticaria). Chronic neuroinflammation underscores several neuropsychiatric conditions (e.g., C-PTSD, ASD, and treatment-resistant depression). These findings highlight the unrecognized potential of this overlooked compound in the treatment of a vast array of neuropsychiatric and inflammatory conditions. 
 
+## Legal and Safety Disclaimer
+
+This document is for theoretical and educational purposes only. It does **not** constitute medical advice, treatment recommendations, or protocols of any kind.
+
+**2-CB** is a Schedule I controlled substance in the United States and is illegal in many jurisdictions. It carries serious risks including neurotoxicity at high doses, hallucinations, and potential lethality. Low-dose or any use is **not** endorsed or recommended. All content is hypothetical and derived solely from published animal/preclinical literature. Consult licensed medical professionals and comply with all local laws. The authors assume no liability for any interpretation or action based on this repository.
